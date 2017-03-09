@@ -13,8 +13,8 @@
         android:gravity="center"
         android:textStyle="bold"
         android:id="@+id/textView"
-        tools:layout_editor_absoluteY="215dp"
-        tools:layout_editor_absoluteX="167dp" />
+        tools:layout_editor_absoluteY="247dp"
+        tools:layout_editor_absoluteX="169dp" />
 
 
     <com.facebook.login.widget.LoginButton
@@ -22,8 +22,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        tools:layout_editor_absoluteY="407dp"
-        tools:layout_editor_absoluteX="127dp" />
+        tools:layout_editor_absoluteY="301dp"
+        tools:layout_editor_absoluteX="123dp" />
 
 
 

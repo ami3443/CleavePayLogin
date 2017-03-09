@@ -30,7 +30,7 @@ import org.json.JSONObject;
 import java.util.Arrays;
 
 
-/*public class login extends AppCompatActivity {
+public class login extends AppCompatActivity {
 
     LoginButton loginButton;
     TextView textView;
@@ -70,9 +70,9 @@ import java.util.Arrays;
     }
 
 
-}*/
+}
 
-public class login extends ActionBarActivity {
+/*public class login extends ActionBarActivity {
 
     private CallbackManager callbackManager;
     String emailid, gender, bday, username;
@@ -193,4 +193,4 @@ public class login extends ActionBarActivity {
     }
 
 
-}
+}*/
